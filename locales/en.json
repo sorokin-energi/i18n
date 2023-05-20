@@ -2,10 +2,7 @@
   "global": {
     "all": "All",
     "countries": {
-      "NO": "Norway"
-    },
-    "currency": {
-      "nok": "NOK"
+      "NO": "NO"
     }
   },
   "home": {
