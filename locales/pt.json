@@ -3,10 +3,10 @@
     "all": ""
   },
   "home": {
-    "title": "Início",
     "page_ingress": "",
     "pagination": {
       "page": ""
-    }
+    },
+    "title": "Início"
   }
 }

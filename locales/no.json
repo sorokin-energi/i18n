@@ -1,19 +1,13 @@
 {
-    "home": {
-        "title": "Hjem",
-        "page_ingress": "<p>The sunflower danced <bold>gracefully</bold> in the gentle breeze, its vibrant yellow petals reaching for the sky.</p><p>As the rain poured down, the children gleefully splashed in the puddles, their laughter filling the air.</p>",
-        "pagination": {
-            "page": "Page {{page}} of {{pageCount}}"
-        },
-        "all": "Alle"
+  "global": {
+    "all": "Alle"
+  },
+  "home": {
+    "all": "Alle",
+    "page_ingress": "<p>The sunflower danced <bold>gracefully</bold> in the gentle breeze, its vibrant yellow petals reaching for the sky.</p><p>As the rain poured down, the children gleefully splashed in the puddles, their laughter filling the air.</p>",
+    "pagination": {
+      "page": "Page {{page}} of {{pageCount}}"
     },
-    "global": {
-        "all": "Alle",
-        "countries": {
-            "NO": "NO"
-        },
-        "currency": {
-            "nok": "NOK"
-        }
-    }
+    "title": "Hjem"
+  }
 }
