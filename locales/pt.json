@@ -1,3 +1,10 @@
 {
-    "home": {}
+    "home": {
+        "title": "Início",
+        "page_ingress": "",
+        "pagination": {
+            "page": ""
+        },
+        "all": ""
+    }
 }
