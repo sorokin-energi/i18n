@@ -11,7 +11,7 @@
   "home": {
     "page_ingress": "<p>Solsikken danset <bold>grasiøst</bold> i den milde brisen, de livlige gule kronbladene strakte seg mot himmelen.</p><p>Mens regnet strømmet ned, plasket barna muntert i pyttene, og latteren deres fylte luften.</p>",
     "pagination": {
-      "page": "Page {{page}} of {{pageCount}}"
+      "page": "Side {{page}} av {{pageCount}}"
     },
     "title": "Hjem"
   }
