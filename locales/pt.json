@@ -13,6 +13,6 @@
     "pagination": {
       "page": "Page {{page}} of {{pageCount}}"
     },
-    "title": "Alle"
+    "title": "Início"
   }
 }
