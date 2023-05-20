@@ -1,11 +1,7 @@
 {
-  "global": {
-    "all": ""
-  },
   "home": {
-    "page_ingress": "",
     "pagination": {
-      "page": ""
+      "page": "Página {{page}} de {{pageCount}}"
     },
     "title": "Início"
   }
