@@ -1,10 +1,12 @@
 {
-    "home": {
-        "title": "Hjem",
-        "page_ingress": "",
-        "pagination": {
-            "page": ""
-        },
-        "all": ""
+  "global": {
+    "all": ""
+  },
+  "home": {
+    "title": "Hjem",
+    "page_ingress": "",
+    "pagination": {
+      "page": ""
     }
+  }
 }

@@ -1,10 +1,12 @@
 {
-    "home": {
-        "title": "Início",
-        "page_ingress": "",
-        "pagination": {
-            "page": ""
-        },
-        "all": ""
+  "global": {
+    "all": ""
+  },
+  "home": {
+    "title": "Início",
+    "page_ingress": "",
+    "pagination": {
+      "page": ""
     }
+  }
 }
