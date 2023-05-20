@@ -1,13 +1,18 @@
 {
-  "global": {
-    "all": "Alle"
-  },
-  "home": {
-    "all": "Alle",
-    "page_ingress": "<p>The sunflower danced <bold>gracefully</bold> in the gentle breeze, its vibrant yellow petals reaching for the sky.</p><p>As the rain poured down, the children gleefully splashed in the puddles, their laughter filling the air.</p>",
-    "pagination": {
-      "page": "Page {{page}} of {{pageCount}}"
+    "home": {
+        "page_ingress": "<p>Solsikken danset <bold>grasiøst</bold> i den milde brisen, de livlige gule kronbladene strakte seg mot himmelen.</p><p>Mens regnet strømmet ned, plasket barna muntert i pyttene, og latteren deres fylte luften.</p>",
+        "pagination": {
+            "page": "Side {{page}} av {{pageCount}}"
+        },
+        "title": "Forside"
     },
-    "title": "Hjem"
-  }
+    "global": {
+        "all": "All",
+        "countries": {
+            "NO": "NO"
+        },
+        "currency": {
+            "nok": "NOK"
+        }
+    }
 }
