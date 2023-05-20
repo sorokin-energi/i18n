@@ -3,6 +3,9 @@
     "all": "All",
     "countries": {
       "NO": "Norway"
+    },
+    "currency": {
+      "nok": "NOK"
     }
   },
   "home": {
