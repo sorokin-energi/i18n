@@ -1,12 +1,15 @@
 {
-  "global": {
-    "all": ""
-  },
-  "home": {
-    "page_ingress": "",
-    "pagination": {
-      "page": ""
+    "global": {
+        "all": "Todos",
+        "countries": {
+            "NO": "NO"
+        }
     },
-    "title": "Início"
-  }
+    "home": {
+        "page_ingress": "<p>O girassol dançava <bold>graciosamente</bold> na brisa suave, com suas pétalas amarelas vibrantes alcançando o céu.</p><p>Enquanto a chuva caía, as crianças se esparramavam alegremente nas poças, com suas risadas enchendo o ar.</p>",
+        "pagination": {
+            "page": "Página {{page}} de {{pageCount}}"
+        },
+        "title": "Início"
+    }
 }
