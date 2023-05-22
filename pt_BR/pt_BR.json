@@ -1,0 +1,16 @@
+{
+    "global": {
+        "all": "",
+        "countries": {
+            "NO": "NO"
+        }
+    },
+    "home": {
+        "page_ingress": "",
+        "pagination": {
+            "page": ""
+        },
+        "title": "Início",
+        "all": ""
+    }
+}
