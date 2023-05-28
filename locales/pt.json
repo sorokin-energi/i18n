@@ -1,6 +1,9 @@
 {
   "global": {
-    "all": ""
+    "all": "Todos",
+    "countries": {
+      "NO": "NO"
+    }
   },
   "home": {
     "page_ingress": "",
