@@ -1,8 +1,8 @@
 {
   "global": {
-    "all": "Все",
+    "all": "Усе",
     "countries": {
-      "NO": "NO"
+      "NO": "Нор"
     }
   },
   "home": {
@@ -10,6 +10,6 @@
     "pagination": {
       "page": "Page {{page}} of {{pageCount}}"
     },
-    "title": "Home"
+    "title": "Головна"
   }
 }
