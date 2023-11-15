@@ -1,6 +1,6 @@
 {
   "global": {
-    "all": "Всі",
+    "all": "Усе",
     "countries": {
       "NO": "Нор"
     }
@@ -10,6 +10,6 @@
     "pagination": {
       "page": "Page {{page}} of {{pageCount}}"
     },
-    "title": "Home"
+    "title": "Головна"
   }
 }
